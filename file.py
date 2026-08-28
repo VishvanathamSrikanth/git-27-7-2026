@@ -1,5 +1,1 @@
-lfbwbrfbwbfwl
-fiosfn
-foisnf
-nfn
-sfniwbf
+print('hello')
