@@ -1,3 +1,5 @@
+## this is the solution for the calculating the amount to pay based on the salary and units consumed. It also provides vouchers based on gender and customer type.
+
 # If elif solution
 sal = int(input("enter the sal"))
 if(sal>=50000):
